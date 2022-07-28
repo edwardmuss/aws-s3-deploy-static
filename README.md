@@ -9,4 +9,4 @@ This project explains how to deploy a static website on AWS
 
 # Website example
 
-![website Image](Screenshot 2022-07-28 at 22.35.18.png)
+![website Image](web-sample.png)
